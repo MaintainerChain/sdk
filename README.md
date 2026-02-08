@@ -25,3 +25,26 @@ To become the reliability backbone of decentralized finance by setting the highe
 - Interoperable integrations  
 - Scalable infrastructure  
 
+
+## 🔌 Integrations
+Designed to work with:
+- DEXs  
+- Lending markets  
+- Yield protocols  
+- AI / agent frameworks  
+
+## 🧪 Status
+🟢 Active development
+
+## 🤝 Contributing
+We welcome builders, researchers, and partners.
+
+1. Fork the repository  
+2. Create your feature branch  
+3. Commit your changes  
+4. Open a pull request  
+ 
+
+---
+
+**MAINTAINER — The DeFi reliability layer.**
